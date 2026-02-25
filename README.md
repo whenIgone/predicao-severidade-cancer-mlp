@@ -102,15 +102,11 @@ Interpretação rápida:
 
 ## Visualizações (recomendado)
 
-Coloque suas imagens em `images/` e referencie aqui:
-
 - Matriz de correlação: `images/correlation_matrix.png`
 - Curva de perda (treino vs teste): `images/loss_curve.png`
 - Dispersão (real vs previsto): `images/scatter_real_vs_pred.png`
 - Importância de variáveis: `images/feature_importance.png`
 - Arquitetura + hiperparâmetros (tabela): `images/model_hyperparams_table.png`
-
-Exemplo de como embutir no README:
 
 ![Matriz de Correlação](images/correlation_matrix.png)
 ![Loss](images/loss_curve.png)
