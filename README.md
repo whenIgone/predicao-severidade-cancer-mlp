@@ -112,6 +112,7 @@ Interpretação rápida:
 ![Loss](images/loss_curve.png)
 ![Real vs Previsto](images/scatter_real_vs_pred.png)
 ![Importância](images/feature_importance.png)
+![Arquitetura](images/model_hyperparams_table.png)
 
 ---
 
