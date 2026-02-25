@@ -127,9 +127,11 @@ A “importância” foi estimada a partir dos **pesos médios absolutos** da pr
 
 ---
 
-## Como rodar o projeto
+## Créditos
+- Dataset: Zahid Feroze (Kaggle) - Global Cancer Patients (2015-2024).
+- Projeto acadêmico em grupo - Faculdade Impacta Tecnologia.
 
-### 1) Clonar o repositório
-```bash
-git clone <URL_DO_SEU_REPO>
-cd <PASTA_DO_REPO>
+## Licença
+- Licenciado sob CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
